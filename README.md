@@ -32,3 +32,11 @@ fichero, directorio, o si el parametro no existe como fichero o directorio.
 El script puede recibir como argumento o directorio especificado de forma
 relativa o absoluta. Si el script no recibe argumentos debe mostrar un
 mensaje informando al usuario de la forma correcta de ser utilizado
+
+
+## Enunciado Ejercicio 3
+
+Escribe un script que al pasarle como argumento un fichero o directorio,
+devuelva el tamaño en MB que ocupa (si es fichero). Si el script no recibe
+un argumentos debe mostrar un mensaje informando al usuario de la forma
+correcta de ser utilizado.
