@@ -24,3 +24,11 @@ que hay ejecutandose en el sistema y que te pertenezcan
 * Un archivo variables que contenga las 5 primeras varibles de entorno
 definidas, por orden alfabetico. El archivo solo debe contener el nombre de 
 las variables, una por linea.
+
+## Enunciado Ejercicio 2
+
+Escribe un script que al pasarle un argumento, determine si ese argumento
+fichero, directorio, o si el parametro no existe como fichero o directorio.
+El script puede recibir como argumento o directorio especificado de forma
+relativa o absoluta. Si el script no recibe argumentos debe mostrar un
+mensaje informando al usuario de la forma correcta de ser utilizado
